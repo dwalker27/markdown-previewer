@@ -1,0 +1,10 @@
+body {
+  background-color: #ffc0c0;
+}
+
+textarea {
+  width: 100%;
+  height: 40vh;
+  font-weight: bold;
+  font-family: 'Courier New';
+}
